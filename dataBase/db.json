@@ -1,0 +1,47 @@
+{
+  "user": [
+    {
+      "id": "b2e4",
+      "name": "Haresh",
+      "email": "harii@gmail.com",
+      "phnNo": "1234567890",
+      "psd": "123",
+      "cfpsd": "123",
+      "Lights": [],
+      "Fans": [],
+      "Cams": [
+        "c5"
+      ],
+      "Acs": [
+        "a4"
+      ],
+      "Tvs": [
+        "t6"
+      ]
+    },
+    {
+      "id": "1798",
+      "name": "shannu",
+      "email": "neerajkrishnalagudu99@gmail.com",
+      "phnNo": "9494098098",
+      "psd": "12345@",
+      "cfpsd": "12345@",
+      "Lights": [
+        "light1"
+      ],
+      "Fans": [
+        "fan1"
+      ],
+      "Cams": [
+        "cam1"
+      ],
+      "Acs": [
+        "ac1"
+      ],
+      "Tvs": [
+        "tv1"
+      ]
+    
+    }
+  ]
+}
